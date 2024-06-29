@@ -8,5 +8,5 @@ In this study, 249 mice who were identified with SCC tumors received treatment w
 
 ## Resources
 ---
-**mokole:** 25 unique colors were generated using: https://mokole.com/palette.html
+**mokole:** 25 unique colors were generated using: https://mokole.com/palette.html<br>
 **stackoverflow:** https://stackoverflow.com/questions/4700614/how-to-put-the-legend-outside-the-plot
