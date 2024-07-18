@@ -1,4 +1,5 @@
-# matplotlib-challenge
+matplotlib-challenge
+# Pymaceuticals
 ## Background
 This challenge has us as the senior data analyst for Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications, where we are tasked with a top-level summary of the results and generating all of the tables and figures needed for the technical report of the clinical study screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
